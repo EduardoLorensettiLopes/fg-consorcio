@@ -61,7 +61,7 @@
     align-items: center;
     border-radius: 15px;
     background-color: #FFF;
-    box-shadow: 1px 1px 8px 1px #FFF;
+    border: 2px solid #0880b3;
 }
 .ImagemCard {
     width: 300px;
